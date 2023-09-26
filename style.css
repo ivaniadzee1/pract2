@@ -1,0 +1,29 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../pract2/image/p3ayzhZ2tMvRbQyMzD31TA\(1\).jpg );
+}
+.ko{
+    border: solid black 2px ;
+    width: 200px;
+    height: 28px;
+    display: block;
+}
+.ko{
+     margin-left: 43%;
+     margin-top: 20px;
+}
+    form{
+    margin-top: 180px;
+}
+.send{
+    height: 30px;
+    width: 120px;
+    background-color: blue;
+    color: white;
+     margin-left: 43%;
+     margin-top: 20px;
+}
+a{
+    color: blue;
+}
